@@ -1,0 +1,13 @@
+[
+  {
+    "build": {
+      "app": "uapp",
+      "version": "11.1.0",
+      "environment": "prod",
+      "partnerId": "sj"
+    },
+    "configuration": {
+      "apiUrl": "https://api.sj.preprod.swipejobs-exchange.com/v3"
+    }
+  }
+]
